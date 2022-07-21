@@ -12,4 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca3b9a6ebf5fb5c40b3a4a28dd5a74e7, type: 3}
   m_Name: easy_ 1
   m_EditorClassIdentifier: 
-  question: 1 + 1 = ?
+  question: 1 + 2 = ?
+  answers:
+  - 3
+  - 4
+  - 5
+  - 6
